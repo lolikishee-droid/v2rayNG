@@ -10,8 +10,8 @@ android {
 
     defaultConfig {
         applicationId = "com.v2ray.ang"
-        minSdk = 24
-        targetSdk = 36
+        minSdk = 21
+        targetSdk = 26
         versionCode = 709
         versionName = "2.0.9"
         multiDexEnabled = true
